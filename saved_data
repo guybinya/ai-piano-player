@@ -1,0 +1,310 @@
+[
+    {
+        "chords": [
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 1000
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 103,
+                "time": 1000
+            },
+            {
+                "chord_name": "C",
+                "velocity": 80,
+                "time": 2000
+            },
+            {
+                "chord_name": "Em",
+                "velocity": 110,
+                "time": 1500
+            },
+            {
+                "chord_name": "F",
+                "velocity": 95,
+                "time": 1500
+            },
+            {
+                "chord_name": "G",
+                "velocity": 100,
+                "time": 1500
+            },
+            {
+                "chord_name": "Am",
+                "velocity": 95,
+                "time": 2500
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 100,
+                "time": 1500
+            }
+        ]
+    },
+    {
+        "chords": [
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 1000
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 103,
+                "time": 1000
+            },
+            {
+                "chord_name": "C",
+                "velocity": 80,
+                "time": 2000
+            },
+            {
+                "chord_name": "Em",
+                "velocity": 110,
+                "time": 1500
+            },
+            {
+                "chord_name": "F",
+                "velocity": 90,
+                "time": 1300
+            },
+            {
+                "chord_name": "G",
+                "velocity": 100,
+                "time": 1800
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 100,
+                "time": 1700
+            },
+            {
+                "chord_name": "Am",
+                "velocity": 95,
+                "time": 1600
+            }
+        ]
+    },
+    {
+        "chords": [
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 1000
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 110,
+                "time": 1000
+            },
+            {
+                "chord_name": "F",
+                "velocity": 90,
+                "time": 1500
+            },
+            {
+                "chord_name": "C",
+                "velocity": 100,
+                "time": 1000
+            },
+            {
+                "chord_name": "Em",
+                "velocity": 105,
+                "time": 1000
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 95,
+                "time": 2000
+            },
+            {
+                "chord_name": "G",
+                "velocity": 100,
+                "time": 1000
+            },
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 2000
+            }
+        ]
+    },
+    {
+        "chords": [
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 1000
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 103,
+                "time": 1000
+            },
+            {
+                "chord_name": "C",
+                "velocity": 80,
+                "time": 2000
+            },
+            {
+                "chord_name": "G",
+                "velocity": 110,
+                "time": 1500
+            },
+            {
+                "chord_name": "F",
+                "velocity": 90,
+                "time": 1000
+            },
+            {
+                "chord_name": "E",
+                "velocity": 95,
+                "time": 1000
+            },
+            {
+                "chord_name": "Bdim",
+                "velocity": 85,
+                "time": 2000
+            },
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 1000
+            }
+        ]
+    },
+    {
+        "chords": [
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 1000
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 110,
+                "time": 1000
+            },
+            {
+                "chord_name": "G",
+                "velocity": 90,
+                "time": 1500
+            },
+            {
+                "chord_name": "C",
+                "velocity": 95,
+                "time": 2000
+            },
+            {
+                "chord_name": "F",
+                "velocity": 85,
+                "time": 1000
+            },
+            {
+                "chord_name": "Bdim",
+                "velocity": 105,
+                "time": 1500
+            },
+            {
+                "chord_name": "E",
+                "velocity": 100,
+                "time": 2000
+            },
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 2000
+            }
+        ]
+    },
+    {
+        "chords": [
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 1000
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 103,
+                "time": 1000
+            },
+            {
+                "chord_name": "F",
+                "velocity": 95,
+                "time": 1500
+            },
+            {
+                "chord_name": "C",
+                "velocity": 90,
+                "time": 1000
+            },
+            {
+                "chord_name": "Em",
+                "velocity": 105,
+                "time": 1300
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 100,
+                "time": 1200
+            },
+            {
+                "chord_name": "G",
+                "velocity": 110,
+                "time": 1800
+            },
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 2000
+            }
+        ]
+    },
+    {
+        "chords": [
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 1000
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 95,
+                "time": 1500
+            },
+            {
+                "chord_name": "G",
+                "velocity": 90,
+                "time": 1500
+            },
+            {
+                "chord_name": "C",
+                "velocity": 100,
+                "time": 1500
+            },
+            {
+                "chord_name": "F",
+                "velocity": 105,
+                "time": 1500
+            },
+            {
+                "chord_name": "Dm",
+                "velocity": 100,
+                "time": 2000
+            },
+            {
+                "chord_name": "Em",
+                "velocity": 110,
+                "time": 2000
+            },
+            {
+                "chord_name": "Am",
+                "velocity": 100,
+                "time": 3000
+            }
+        ]
+    }
+]
