@@ -2,7 +2,7 @@
 
 Give GPT the tools to play the piano.
 
-# Setup
+## Setup
 
 - install fluidsynth library on your local machine (to support playing sounds)
 - run pip install -r requirements.txt
